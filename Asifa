@@ -1,0 +1,135 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{ASIFA BEGUM M}  % Your name
+% Your address
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{(+91) 6374470018 \\ masifa0706@gmail.com \\
+Asifa Begum.linkedin \\ Asifabegum.github}  
+% Your phone number and email
+\textbackslash{}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+%--copy and paste this region  if you need more--
+{\bf SRM TRP Engineering College, Trichy} \hfill {\em 2023 - 2027} 
+\\ B.Tech Artificial Intelligence and Data Science\hfill { CGPA: 9.03 }
+
+%--copy and paste this region  if you need more--
+{\bf Golden Gates Matric Hr.Sec School, Perambalur} \hfill {\em 2023} 
+\\ HSC\hfill { PERCENTAGE: 95.33 }
+
+%--copy and paste this region  if you need more--
+{\bf Golden Gates Matric Hr.Sec School, Perambalur} \hfill {\em 2021} 
+\\ SSLC\
+
+%--copy and paste this region  if you need more--
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Technical Skills and Interests}
+%--copy and paste this region  if you need more--
+{\bf Languages:}  { Python, HTML, CSS}
+
+%--copy and paste this region  if you need more--
+{\bf Database:}  { MySQL}
+
+{\bf Development Tools:}  { Visual Studio Code, Github, Jupyter}
+
+
+%--copy and paste this region  if you need more--
+{\bf Soft Skills:}  { Active Listening, Resilience, Problem Solving, Creativity}
+
+
+%--copy and paste this region  if you need more--
+\end{rSection}
+\
+%--------------------------------------------------------------------------------
+%    PROJECTS
+%-----------------------------------------------------------------------------------------------
+\begin{rSection}{Project}
+%--copy and paste this region  if you need more--
+{\bf Food Ordering Website  }
+\\Created a visually appealing Food ordering website with an integrated quick commerce system using HTML, CSS, PHP and MySQL. \\
+
+{\bf Travel Agency Website }
+\\Designed and developed a user-friendly travel booking website with real-time planning using HTML, CSS, PHP and MySQL.\\
+
+
+%--copy and paste this region  if you need more--
+\end{rSection}
+%--------------------------------------------------------------------------------
+%    ACTIVITIES
+%-----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
+%	SKILLS SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{CERTIFICATES}
+
+\begin{itemize}
+    \item NPTEL online certification - Cloud Computing}
+\end{itemize}
+
+\begin{itemize}
+    \item {Python Certifications - Udemy and Simplilearn }
+\end{itemize}
+
+\begin{itemize}
+    \item {Participated in Paper Presentations }
+\end{itemize}
+
+\begin{itemize}
+    \item {Internship Completion}
+\end{itemize}
+
+\begin{itemize}
+    \item {Attended Workshops}
+\end{itemize}
+
+\end{rSection}
+
+
+
+
+\begin{rSection}{Hobbies} 
+
+\begin{itemize}
+    \item \\Reading
+\end{itemize}
+\begin{itemize}
+    \item Playing Chess
+\end{itemize}
+\begin{itemize}
+    \item Coding
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Languages}
+\\English
+
+\\Tamil
+\end{rSection}
+
+\end{document}----------------------------
+
